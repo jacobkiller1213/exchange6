@@ -1,0 +1,151 @@
+{
+  "currencies": [
+    {
+      "ticker": "btc",
+      "name": "Bitcoin",
+      "min_amount": 0.0005,
+      "max_amount": 5,
+      "reserve": 25.73
+    },
+    {
+      "ticker": "eth",
+      "name": "Ethereum",
+      "min_amount": 0.01,
+      "max_amount": 100,
+      "reserve": 587.42
+    },
+    {
+      "ticker": "trx",
+      "name": "TRON",
+      "min_amount": 100,
+      "max_amount": 500000,
+      "reserve": 2134567
+    },
+    {
+      "ticker": "xrp",
+      "name": "Ripple",
+      "min_amount": 10,
+      "max_amount": 50000,
+      "reserve": 213456
+    },
+    {
+      "ticker": "ltc",
+      "name": "Litecoin",
+      "min_amount": 0.1,
+      "max_amount": 500,
+      "reserve": 1234.56
+    },
+    {
+      "ticker": "ton",
+      "name": "Toncoin",
+      "min_amount": 1,
+      "max_amount": 10000,
+      "reserve": 54321.87
+    },
+    {
+      "ticker": "usdt",
+      "name": "Tether",
+      "min_amount": 10,
+      "max_amount": 100000,
+      "reserve": 543217.89
+    },
+    {
+      "ticker": "dai",
+      "name": "Dai",
+      "min_amount": 10,
+      "max_amount": 50000,
+      "reserve": 213456.78
+    },
+    {
+      "ticker": "dot",
+      "name": "Polkadot",
+      "min_amount": 1,
+      "max_amount": 5000,
+      "reserve": 23456.78
+    },
+    {
+      "ticker": "ada",
+      "name": "Cardano",
+      "min_amount": 1,
+      "max_amount": 5000,
+      "reserve": 23456.78
+    },
+    {
+      "ticker": "usdc",
+      "name": "USD Coin",
+      "min_amount": 10,
+      "max_amount": 100000,
+      "reserve": 532145.67
+    },
+    {
+      "ticker": "sol",
+      "name": "Solana",
+      "min_amount": 0.5,
+      "max_amount": 2000,
+      "reserve": 12345.67
+    },
+    {
+      "ticker": "arb",
+      "name": "Arbitrum",
+      "min_amount": 5,
+      "max_amount": 20000,
+      "reserve": 123456.78
+    },
+    {
+      "ticker": "bch",
+      "name": "Bitcoin Cash",
+      "min_amount": 0.01,
+      "max_amount": 500,
+      "reserve": 2345.67
+    },
+    {
+      "ticker": "dash",
+      "name": "Dash",
+      "min_amount": 0.05,
+      "max_amount": 1000,
+      "reserve": 5432.19
+    },
+    {
+      "ticker": "zec",
+      "name": "Zcash",
+      "min_amount": 0.05,
+      "max_amount": 1000,
+      "reserve": 5678.91
+    },
+    {
+      "ticker": "bnb",
+      "name": "Binance Coin",
+      "min_amount": 0.05,
+      "max_amount": 500,
+      "reserve": 2345.67
+    },
+    {
+      "ticker": "doge",
+      "name": "Dogecoin",
+      "min_amount": 50,
+      "max_amount": 1000000,
+      "reserve": 5432198.76
+    },
+    {
+      "ticker": "xmr",
+      "name": "Monero",
+      "min_amount": 0.1,
+      "max_amount": 500,
+      "reserve": 2345.67
+    },
+    {
+      "ticker": "etc",
+      "name": "Ethereum Classic",
+      "min_amount": 0.5,
+      "max_amount": 5000,
+      "reserve": 23456.78
+    },
+    {
+      "ticker": "xlm",
+      "name": "Stellar",
+      "min_amount": 50,
+      "max_amount": 500000,
+      "reserve": 2134567.89
+    }
+  ]
+}

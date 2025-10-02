@@ -1,0 +1,82 @@
+# Включаем модуль перезаписи URL
+RewriteEngine On
+
+# Базовый URL (если приложение находится в подкаталоге)
+# RewriteBase /
+
+
+# Обработка multicall запросов
+
+RewriteRule ^service/api/v1/public/site/status/get/?$ api/site-status.php [L]
+RewriteRule ^service/api/v1/public/exchanger/favorite/get/?$ api/exchanger-favorite.php [L]
+RewriteRule ^service/api/v1/public/site/page/static/list/?$ api/static-page-list.php [L]
+RewriteRule ^service/api/v1/public/web-alerts/get/list/?$ api/web-alerts-list.php [QSA,L]
+RewriteRule ^service/api/v1/public/exchanger/route-v2/get/?$ api/exchanger-route.php [L]
+RewriteRule ^service/api/v1/public/contacts/list/?$ api/contacts-list.php [L]
+RewriteRule ^service/api/v1/public/reviews/get/?$ api/reviews.php [QSA,L]
+RewriteRule ^service/api/v1/public/faq/get/group/?$ api/faq-group.php [L]
+RewriteRule ^service/api/v1/public/server/lang/all/?$ api/lang-all.php [L]
+RewriteRule ^service/api/v1/public/faq/get/list/?$ api/faq-list.php [L]
+RewriteRule ^service/api/v1/public/news/list/full/?$ api/news-full.php [L]
+RewriteRule ^service/api/v1/public/partners-block/list/?$ api/partners-block.php [L]
+RewriteRule ^service/api/v1/public/visits/register/?$ api/visits-register.php [L]
+RewriteRule ^service/api/v1/user/auth/session/get/?$ api/auth-session.php [L]
+RewriteRule ^service/api/v1/public/exchanger/route/get/one/?$ api/exchanger-route-one.php [L]
+RewriteRule ^service/api/v1/public/exchanger/order/create/?$ api/create-order.php [L]
+RewriteRule ^service/api/v1/public/exchanger/order/get/?$ api/get-order.php [L]
+RewriteRule ^service/api/v1/user/auth/socket/get/token/?$ api/get-token.php [L]
+RewriteRule ^service/api/v1/public/rule/list/?$ api/rule-list.php [L]
+RewriteRule ^service/api/v1/public/rule/get/?$ api/rule-get.php [L]
+RewriteRule ^service/api/v1/public/exchanger/order/update-status/?$ api/update-status.php [L]
+RewriteRule ^ru/order/([0-9]+)/?$ order.php?order_id=$1 [L]
+RewriteRule ^ru/order/([0-9]+)/(.*)$ order.php?order_id=$1&$2 [L]
+
+# Роуты для статических страниц
+RewriteRule ^ru/about-us/([^/]+)/?$ ru1/about-us/index.html [L]
+RewriteRule ^ru/rules/aml-kyc/?$ /index.html [L]
+RewriteRule ^ru/about-us/?$ ru1/about-us/index.html [L]
+
+
+# Исключаем /locales/ из перенаправлений
+RewriteCond %{REQUEST_URI} ^/locales/ [NC]
+RewriteRule ^ - [L]
+
+# Разрешаем доступ к реальным файлам и директориям
+RewriteCond %{REQUEST_FILENAME} -f [OR]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# Разрешаем доступ к JS, CSS, изображениям и другим статическим файлам
+RewriteCond %{REQUEST_URI} !\.(?:css|js|jpg|jpeg|png|gif|ico|svg|woff|woff2|ttf|eot|map)$ [NC]
+
+# Перенаправляем все остальные запросы на index.html
+RewriteRule ^ index.html [L]
+
+
+# Устанавливаем правильные типы MIME
+<IfModule mod_mime.c>
+  AddType application/javascript .js
+  AddType text/css .css
+</IfModule>
+
+# Устанавливаем заголовки кэширования для статических ресурсов
+<IfModule mod_expires.c>
+  ExpiresActive On
+  
+  # Изображения
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  
+  # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  
+  # Шрифты
+  ExpiresByType application/font-woff "access plus 1 year"
+  ExpiresByType application/font-woff2 "access plus 1 year"
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 year"
+  ExpiresByType application/x-font-ttf "access plus 1 year"
+  ExpiresByType font/opentype "access plus 1 year"
+</IfModule>

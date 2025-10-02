@@ -1,0 +1,127 @@
+/* userwallets */
+.userwallets_form{
+    border-radius: 12px;
+    background: url(images/sh.png);
+    margin: 0 0 20px 0;
+    padding: 20px 20px;
+    }
+        .userwallets_form_title{
+        font: 500 24px var(--pe-font-family), sans-serif;
+        color: var(--pe-headers-color);
+        margin: 0px 0px 20px;
+        }
+             .userwallets_one_tab{
+            padding: 10px 0 0 0;
+            display: none;
+            }
+                .userwallets_one_line{
+                margin: 0 0 10px 0;
+                }
+                .userwallets_help{
+                background: #f7fbcd;
+                border-bottom: 2px solid #b0c000;
+                border-radius: 8px;
+                padding: 10px 15px;
+                color: #000;
+                font: 13px 'Montserrat', sans-serif;
+                margin: 0 0 10px 0;
+                }
+    .userwallets_table{
+    margin: 0 0 20px 0;
+    }
+        .userwallets_table_title{
+        font: 500 24px var(--pe-font-family), sans-serif;
+        color: var(--pe-headers-color);
+        margin: 0px 0px 20px;
+        margin: 0 0 20px 0;
+        }
+            .userwallets_table_one{
+            background: url(images/sh.png);
+            padding: 15px 20px;
+            position: relative;
+            margin: 0 0 10px 0;
+            border-radius: 6px;
+            }
+                .userwallets_one_title{
+                font: 600 14px 'Montserrat', sans-serif;
+                margin: 0 0 5px 0;
+                }
+                .close_userwallets{
+                position: absolute;
+                float: none;
+                top: 17px;
+                right: 15px;
+                width: 35px;
+                height: 35px;
+                background: url(images/big_close.png) no-repeat center center;
+                cursor: pointer;
+                }
+                    .close_userwallets:hover{
+                    opacity: 0.8;
+                    }
+                    .close_userwallets.act{
+                    background: url(images/ajax-loader.gif) no-repeat center center;
+                    }
+                 .verify_status{
+                padding: 5px 0 0 0;
+                font: 13px 'Montserrat', sans-serif;
+                }
+                    .verify_status.wait{
+                    color: #0da2d3;
+                    }
+                    .verify_status.success{
+                    color: #008603;
+                    }
+                    .verify_status.not{
+                    color: #0da2d3;
+                    }
+                        .verify_status a{
+                        color: #0da2d3;
+                        text-decoration: none;
+                        border-bottom: 1px dotted #0da2d3;
+                        }
+                            .verify_status a:hover{
+                            border-bottom: none;
+                            }
+                .verify_tab_descr{
+                padding: 10px 0 0 0;
+                font: italic 13px 'Montserrat', sans-serif;
+                }
+                    .verify_tab_descr p{
+                    padding: 0 0 10px 0;
+                    }
+                        .verify_acc_syst{
+                        padding: 0 0 10px 0;
+                        }
+                        .verify_acc_file{
+                        padding: 0 0 10px 0;
+                        }
+                            .verify_accline_wrap{
+                            padding: 0 0 2.8rem 0;
+                            }
+                                .verify_acc_line{
+                                margin: 0 0 5px 0;
+                                }
+                .verify_tab_action_link{
+                float: left;
+                background: #2691cd;
+                background-image: linear-gradient(to right, #114e92, #006cae, #008bc8, #00aade, #30caf2);
+                box-shadow: inset 0px 0px 15px #93b6da, 5px 5px 15px #afc5cc;
+                border-radius: 50px;
+                height: 40px;
+                padding: 0 25px;
+                color: #ffffff;
+                text-transform: uppercase;
+                font: 700 16px/40px var(--pe-font-family), sans-serif;
+                cursor: pointer;
+                }
+                    .verify_tab_action_link:hover{
+                    background-image: linear-gradient(to right, #144f8f, #0568a6, #0082bc, #119ccf, #2db6e1);
+                    color: #fff;
+                    text-decoration: none;
+                    }
+                    .verify_tab_action_link.act{
+                    background: #ccc;
+                    cursor: default;
+                    }
+/* end userwallets */

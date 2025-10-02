@@ -1,0 +1,40 @@
+/*
+Theme Name: Mistinity
+Theme URI: https://premiumexchanger.com
+Description: PremiumBox theme
+Version: 2.5.0
+Author: Premium
+Author URI: https://premiumexchanger.com
+*/
+
+@import url('style_exch.css');
+@import url('style_userwallets.css');
+@import url('./css/main.min.css');
+
+
+.hexch_info_line{
+    display: none;
+}
+
+
+.header__auth{
+}
+.section_content_wrapper{
+    display: none !important;
+}
+.footer__block_buttons a:first-child {
+    display: none !important;
+}
+.social_links a:last-child {
+    display: none !important;
+}
+
+/* Скрываем ненужные пункты меню по ID */
+#menu-item-36,  /* Предупреждение */
+#menu-item-815, /* Отзывы */
+#menu-item-816, /* Переводы за рубеж */
+#menu-item-817,  /* Денежные переводы в Россию */
+#menu-item-661  
+{
+    display: none !important;
+}
