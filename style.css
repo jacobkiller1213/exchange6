@@ -9,6 +9,9 @@ body {
   transition-timing-function: ease;
   transition-delay: 0s;
 }
+.hidden{
+    display: none !important;
+}
 .nuxt-progress {
   background-color: #006cf0;
   height: 5px;

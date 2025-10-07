@@ -1765,7 +1765,7 @@
               e = t._self._c;
             return e(
               "div",
-              { staticClass: "container container-dashed partner-block" },
+              { staticClass: "container container-dashed hidden partner-block" },
               [
                 t.partnersArray.length
                   ? e("div", { staticClass: "our-partner" }, [
