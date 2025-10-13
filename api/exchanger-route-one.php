@@ -169,7 +169,7 @@ $data = [
 					"_id"     => "6788fd46729c1064a57e0f9b"
 				],
 				[
-					"content" => "<p style=\"text-align: center;\">##ru##Благодарим за выбор CoinLuxy!####en##Thank you for choosing CoinLuxy!####uk##Дякуємо за вибір CoinLuxy!##</п>",
+					"content" => "<p style=\"text-align: center;\">##ru##Благодарим за выбор adxfinance!####en##Thank you for choosing adxfinance!####uk##Дякуємо за вибір adxfinance!##</п>",
 					"step"    => "doneOrder",
 					"_id"     => "6788fd46729c1064a57e0f9c"
 				]
@@ -193,12 +193,12 @@ $data = [
 			"routeId"                   => $id_route,
 			"seo"                       => [
 				"friendlyURL" => "bitcoin-na-tinkoff",
-				"title"       => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | CoinLuxy####ua##Обмін Bitcoin BTC Тінькофф Рублі | CoinLuxy####en##Exchange Bitcoin BTC to Tinkoff Rubles | CoinLuxy##",
+				"title"       => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | adxfinance####ua##Обмін Bitcoin BTC Тінькофф Рублі | adxfinance####en##Exchange Bitcoin BTC to Tinkoff Rubles | adxfinance##",
 				"subtitle"    => "",
-				"description" => "##ru##Обменник криптовалют CoinLuxy предлагается обменять криптовалюту Bitcoin BTC на Рубли Банка Тинькофф. Быстрые обмены. Выгодный курс.####ua##Обмінник криптовалют CoinLuxy пропонується обміняти криптовалюту Bitcoin BTC на Рублі Банку Тінькофф. Швидкі обміни. Вигідний курс.####en##Cryptocurrency exchanger CoinLuxy offers to exchange Bitcoin BTC cryptocurrency for Tinkoff Bank Rubles. Fast exchanges. Favorable rate.##",
+				"description" => "##ru##Обменник криптовалют adxfinance предлагается обменять криптовалюту Bitcoin BTC на Рубли Банка Тинькофф. Быстрые обмены. Выгодный курс.####ua##Обмінник криптовалют adxfinance пропонується обміняти криптовалюту Bitcoin BTC на Рублі Банку Тінькофф. Швидкі обміни. Вигідний курс.####en##Cryptocurrency exchanger adxfinance offers to exchange Bitcoin BTC cryptocurrency for Tinkoff Bank Rubles. Fast exchanges. Favorable rate.##",
 				"instruction" => "",
-				"keyword"     => "##ru##Обменник криптовалют CoinLuxy, обменять Тинькофф Рубли, BTC на Рубли, Быстрые выплаты, Выгодный курс, Bitcoin BTC на Рубли Банка, Обмен BTC на Тинькофф Рубли, CoinLuxy, обмен биткоин на рубли####ua##Обмінник криптовалют CoinLuxy, обміняти Тінькофф Рублі, BTC на Рублі, Швидкі виплати, Вигідний курс, Bitcoin BTC на Рублі Банку, Обмін BTC на Тінькофф Рублі, CoinLuxy, обмін біткоїн на рублі####en##Cryptocurrency exchanger CoinLuxy, exchange Tinkoff Rubles, BTC to Rubles, Fast payments, Favorable rate, Bitcoin BTC to Rubles Bank, Exchange BTC to Tinkoff Rubles, CoinLuxy, exchange bitcoin to rubles##",
-				"h1"          => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | CoinLuxy####ua##Обмін Bitcoin BTC Тінькофф Рублі | CoinLuxy####en##Exchange Bitcoin BTC to Tinkoff Rubles | CoinLuxy##",
+				"keyword"     => "##ru##Обменник криптовалют adxfinance, обменять Тинькофф Рубли, BTC на Рубли, Быстрые выплаты, Выгодный курс, Bitcoin BTC на Рубли Банка, Обмен BTC на Тинькофф Рубли, adxfinance, обмен биткоин на рубли####ua##Обмінник криптовалют adxfinance, обміняти Тінькофф Рублі, BTC на Рублі, Швидкі виплати, Вигідний курс, Bitcoin BTC на Рублі Банку, Обмін BTC на Тінькофф Рублі, adxfinance, обмін біткоїн на рублі####en##Cryptocurrency exchanger adxfinance, exchange Tinkoff Rubles, BTC to Rubles, Fast payments, Favorable rate, Bitcoin BTC to Rubles Bank, Exchange BTC to Tinkoff Rubles, adxfinance, exchange bitcoin to rubles##",
+				"h1"          => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | adxfinance####ua##Обмін Bitcoin BTC Тінькофф Рублі | adxfinance####en##Exchange Bitcoin BTC to Tinkoff Rubles | adxfinance##",
 				"h2"          => ""
 			],
 			"orderTTL"                  => 60

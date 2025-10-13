@@ -45,7 +45,7 @@ function getStatusInfo($status, $order, $currency_from = null, $currency_to = nu
         ],
         'suspended' => [
             'title' => 'Заявка приостановлена',
-            'text' => 'Причина: Требуется дополнительная информация, обратитесь в <a style="color:rgb(0, 89, 255);" href="https://t.me/coinluxy_org">службу поддержки</a>.',
+            'text' => 'Причина: Требуется дополнительная информация, обратитесь в <a style="color:rgb(0, 89, 255);" href="https://t.me/adxfinance_support">службу поддержки</a>.',
             'show_support_button' => true
         ],
         'completed' => [
@@ -54,7 +54,7 @@ function getStatusInfo($status, $order, $currency_from = null, $currency_to = nu
         ],
         'deleted' => [
             'title' => 'Время истекло',
-            'text' => 'Созданная вами заявка не была оплачена. По всем вопросам обращайтесь в нашу <a style="color:rgb(0, 89, 255);" href="https://t.me/coinluxy_org">службу поддержки</a>.',
+            'text' => 'Созданная вами заявка не была оплачена. По всем вопросам обращайтесь в нашу <a style="color:rgb(0, 89, 255);" href="https://t.me/adxfinance_support">службу поддержки</a>.',
             'show_support_button' => true
         ]
     ];
@@ -89,10 +89,10 @@ $status_info = getStatusInfo($order['status'], $order, $currency_from, $currency
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta data-n-head="1" data-hid="charset" charset="utf-8">
     <meta data-n-head="1" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
-    <meta data-n-head="1" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="CoinLuxy">
+    <meta data-n-head="1" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="adxfinance">
     <meta data-n-head="1" data-hid="theme-color" name="theme-color" content="#121621">
     <meta data-n-head="1" data-hid="og:type" name="og:type" property="og:type" content="website">
-    <title>Order - CoinLuxy</title>
+    <title>Order - adxfinance</title>
     <link data-n-head="1" rel="icon" type="image/x-icon" href="/service/fs/img/favicon/32/favicon.png">
     <link data-n-head="1" data-hid="shortcut-icon" rel="shortcut icon" href="/_nuxt/icons/icon_16x16.1b5051.png">
     <link data-n-head="1" data-hid="apple-touch-icon" rel="apple-touch-icon" href="/_nuxt/icons/icon_192x192.1b5051.png" sizes="192x192">
@@ -121,9 +121,9 @@ $status_info = getStatusInfo($order['status'], $order, $currency_from, $currency
             Правила пользования
           </a></li> <li><a to="" href="/ru/about-us/">
             О сервисе
-          </a></li> <li class="only-mobile"><a href="https://t.me/coinluxy_org">
+          </a></li> <li class="only-mobile"><a href="https://t.me/adxfinance_support">
             Поддержка
-          </a></li> <!----><!----><!----><!----><!----></ul></nav> <div class="right-block"> <div><div class="registration"><ul><li><a href="https://t.me/coinluxy_org" class="btn-round btn-round-blue 1">
+          </a></li> <!----><!----><!----><!----><!----></ul></nav> <div class="right-block"> <div><div class="registration"><ul><li><a href="https://t.me/adxfinance_support" class="btn-round btn-round-blue 1">
                 Поддержка
               </a></li></ul></div></div></div></div></header>
                     <div data-v-cfae6e7c="" class="main-wr">
@@ -276,7 +276,7 @@ $status_info = getStatusInfo($order['status'], $order, $currency_from, $currency
                                 </div>
                             </div>
                         </div>
-                        <div data-v-ff655f22="" data-v-cfae6e7c="" class="footer footer-support" style="background: linear-gradient(90deg, rgb(44, 68, 14) 0%, rgba(77, 117, 26, 0.88) 53.66%, rgb(53, 80, 18) 100%);"><div data-v-ff655f22="" class="container"><div data-v-ff655f22="" class="contact-main-item"><h4>Центр поддержки</h4> <div><div class="contact-main-mail"><div class="contact-main-icon footer-icon"><img src="/service/fs/img/contacts/big/a4c33d5b3511fae3e4d921a301244d21.svg" alt=""></div> <div><span>Telegram</span> <a href="https://t.me/coinluxy_org" target="_blank" style="display: block; color: white;">Поддержка Telegram</a></div></div><div class="contact-main-mail"><div class="contact-main-icon footer-icon"><img src="/service/fs/img/contacts/big/6f92334429469d07e84bd52ffce94b41.png" alt=""></div> <div><span>График ручных и полуавтоматических обменов</span> <a href="https://t.me/coinluxy_org" target="_blank" style="display: block; color: white;">10:00-22:00</a></div></div></div></div></div></div>
+                        <div data-v-ff655f22="" data-v-cfae6e7c="" class="footer footer-support" style="background: linear-gradient(90deg, rgb(44, 68, 14) 0%, rgba(77, 117, 26, 0.88) 53.66%, rgb(53, 80, 18) 100%);"><div data-v-ff655f22="" class="container"><div data-v-ff655f22="" class="contact-main-item"><h4>Центр поддержки</h4> <div><div class="contact-main-mail"><div class="contact-main-icon footer-icon"><img src="/service/fs/img/contacts/big/a4c33d5b3511fae3e4d921a301244d21.svg" alt=""></div> <div><span>Telegram</span> <a href="https://t.me/adxfinance_support" target="_blank" style="display: block; color: white;">Поддержка Telegram</a></div></div><div class="contact-main-mail"><div class="contact-main-icon footer-icon"><img src="/service/fs/img/contacts/big/6f92334429469d07e84bd52ffce94b41.png" alt=""></div> <div><span>График ручных и полуавтоматических обменов</span> <a href="https://t.me/adxfinance_support" target="_blank" style="display: block; color: white;">10:00-22:00</a></div></div></div></div></div></div>
                     </div>
                     <footer data-v-cfae6e7c="" class="footer">
                         <div class="footer-bottom">

@@ -48,11 +48,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://obmify.com/CoinLuxymoney-exchange?utm_source=CoinLuxymoney&utm_medium=partner_banners&utm_campaign=banner",
+				"link"          => "https://obmify.com/adxfinancemoney-exchange?utm_source=adxfinancemoney&utm_medium=partner_banners&utm_campaign=banner",
 				"createdAt"     => "2024-09-06T13:12:07.531Z",
 				"updatedAt"     => "2025-01-20T12:53:46.641Z",
 				"isShowReviews" => true,
-				"linkReview"    => "https://obmify.com/CoinLuxymoney-exchange?utm_source=CoinLuxymoney&utm_medium=partner_banners&utm_campaign=banner"
+				"linkReview"    => "https://obmify.com/adxfinancemoney-exchange?utm_source=adxfinancemoney&utm_medium=partner_banners&utm_campaign=banner"
 			],
 			[
 				"_id"           => "66e98d3bf1e36bc861b39328",
@@ -146,11 +146,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://wellcrypto.io/ru/exchangers/CoinLuxymoney/",
+				"link"          => "https://wellcrypto.io/ru/exchangers/adxfinancemoney/",
 				"createdAt"     => "2024-09-24T17:41:44.579Z",
 				"updatedAt"     => "2025-01-20T12:53:46.646Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://wellcrypto.io/ru/exchangers/CoinLuxymoney/"
+				"linkReview"    => "https://wellcrypto.io/ru/exchangers/adxfinancemoney/"
 			],
 			[
 				"_id"           => "66d2e2f65dab1c6b31b26882",
@@ -195,11 +195,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://scanbit.com.ua/ua/exchangers/CoinLuxy-money/",
+				"link"          => "https://scanbit.com.ua/ua/exchangers/adxfinance-money/",
 				"createdAt"     => "2024-08-31T09:31:34.201Z",
 				"updatedAt"     => "2025-01-20T12:53:46.648Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://scanbit.com.ua/ua/exchangers/CoinLuxy-money/"
+				"linkReview"    => "https://scanbit.com.ua/ua/exchangers/adxfinance-money/"
 			],
 			[
 				"_id"           => "66d22b68eed5d76582788dd5",
@@ -244,11 +244,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://kursoff.biz/exchangers/CoinLuxy-money",
+				"link"          => "https://kursoff.biz/exchangers/adxfinance-money",
 				"createdAt"     => "2024-08-30T20:28:24.994Z",
 				"updatedAt"     => "2025-01-20T12:53:46.652Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://kursoff.biz/exchangers/CoinLuxy-money"
+				"linkReview"    => "https://kursoff.biz/exchangers/adxfinance-money"
 			],
 			[
 				"_id"           => "66d22d145dab1c6b31b1e97a",
@@ -293,11 +293,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://kurs.expert/ru/obmennik/CoinLuxy-money/feedbacks.html#reputation",
+				"link"          => "https://kurs.expert/ru/obmennik/adxfinance-money/feedbacks.html#reputation",
 				"createdAt"     => "2024-08-30T20:35:32.740Z",
 				"updatedAt"     => "2025-01-20T12:53:46.654Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://kurs.expert/ru/obmennik/CoinLuxy-money/feedbacks.html#reputation"
+				"linkReview"    => "https://kurs.expert/ru/obmennik/adxfinance-money/feedbacks.html#reputation"
 			],
 			[
 				"_id"           => "678e45590fab863301104561",
