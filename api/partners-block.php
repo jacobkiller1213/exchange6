@@ -195,11 +195,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://scanbit.com.ua/ua/exchangers/omgswift-money/",
+				"link"          => "https://scanbit.com.ua/ua/exchangers/OMG Swift-money/",
 				"createdAt"     => "2024-08-31T09:31:34.201Z",
 				"updatedAt"     => "2025-01-20T12:53:46.648Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://scanbit.com.ua/ua/exchangers/omgswift-money/"
+				"linkReview"    => "https://scanbit.com.ua/ua/exchangers/OMG Swift-money/"
 			],
 			[
 				"_id"           => "66d22b68eed5d76582788dd5",
@@ -244,11 +244,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://kursoff.biz/exchangers/omgswift-money",
+				"link"          => "https://kursoff.biz/exchangers/OMG Swift-money",
 				"createdAt"     => "2024-08-30T20:28:24.994Z",
 				"updatedAt"     => "2025-01-20T12:53:46.652Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://kursoff.biz/exchangers/omgswift-money"
+				"linkReview"    => "https://kursoff.biz/exchangers/OMG Swift-money"
 			],
 			[
 				"_id"           => "66d22d145dab1c6b31b1e97a",
@@ -293,11 +293,11 @@ $data = [
 						]
 					]
 				],
-				"link"          => "https://kurs.expert/ru/obmennik/omgswift-money/feedbacks.html#reputation",
+				"link"          => "https://kurs.expert/ru/obmennik/OMG Swift-money/feedbacks.html#reputation",
 				"createdAt"     => "2024-08-30T20:35:32.740Z",
 				"updatedAt"     => "2025-01-20T12:53:46.654Z",
 				"isShowReviews" => false,
-				"linkReview"    => "https://kurs.expert/ru/obmennik/omgswift-money/feedbacks.html#reputation"
+				"linkReview"    => "https://kurs.expert/ru/obmennik/OMG Swift-money/feedbacks.html#reputation"
 			],
 			[
 				"_id"           => "678e45590fab863301104561",

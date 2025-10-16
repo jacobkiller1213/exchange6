@@ -89,10 +89,10 @@ $status_info = getStatusInfo($order['status'], $order, $currency_from, $currency
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta data-n-head="1" data-hid="charset" charset="utf-8">
     <meta data-n-head="1" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
-    <meta data-n-head="1" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="omgswift">
+    <meta data-n-head="1" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="OMG Swift">
     <meta data-n-head="1" data-hid="theme-color" name="theme-color" content="#121621">
     <meta data-n-head="1" data-hid="og:type" name="og:type" property="og:type" content="website">
-    <title>Order - omgswift</title>
+    <title>Order - OMG Swift</title>
     <link data-n-head="1" rel="icon" type="image/x-icon" href="/service/fs/img/favicon/32/favicon.png">
     <link data-n-head="1" data-hid="shortcut-icon" rel="shortcut icon" href="/_nuxt/icons/icon_16x16.1b5051.png">
     <link data-n-head="1" data-hid="apple-touch-icon" rel="apple-touch-icon" href="/_nuxt/icons/icon_192x192.1b5051.png" sizes="192x192">

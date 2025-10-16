@@ -20,5 +20,5 @@ Disallow: /success/
 Disallow: /user/
 Disallow: /service/
 Disallow: /_nuxt/
-Host: https://www.omgswift
+Host: https://www.OMG Swift
 Sitemap: /sitemap.xml

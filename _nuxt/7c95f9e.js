@@ -438,7 +438,7 @@
                               defaultLang: "en",
                               baseUrl: "",
                               wsUrl: "",
-                              projectName: "omgswift",
+                              projectName: "OMG Swift",
                               server: {
                                 dev: { port: 8080, host: "localhost" },
                               },
@@ -3085,7 +3085,7 @@
     },
     297: function (e) {
       e.exports = JSON.parse(
-        '{"title":"omgswift","meta":[{"hid":"charset","charset":"utf-8"},{"hid":"viewport","name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"omgswift"},{"hid":"description","name":"description","content":"omgswift"},{"hid":"theme-color","name":"theme-color","content":"#121621"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"omgswift"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"omgswift"},{"hid":"og:description","name":"og:description","property":"og:description","content":"omgswift"}],"link":[{"hid":"shortcut-icon","rel":"shortcut icon","href":"/_nuxt/icons/icon_16x16.1b5051.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"/_nuxt/icons/icon_192x192.1b5051.png","sizes":"192x192"},{"rel":"manifest","href":"/_nuxt/manifest.5a1f8584.json","hid":"manifest"}],"htmlAttrs":{"lang":"en"}}'
+        '{"title":"OMG Swift","meta":[{"hid":"charset","charset":"utf-8"},{"hid":"viewport","name":"viewport","content":"width=device-width, initial-scale=1"},{"hid":"mobile-web-app-capable","name":"mobile-web-app-capable","content":"yes"},{"hid":"apple-mobile-web-app-title","name":"apple-mobile-web-app-title","content":"OMG Swift"},{"hid":"description","name":"description","content":"OMG Swift"},{"hid":"theme-color","name":"theme-color","content":"#121621"},{"hid":"og:type","name":"og:type","property":"og:type","content":"website"},{"hid":"og:title","name":"og:title","property":"og:title","content":"OMG Swift"},{"hid":"og:site_name","name":"og:site_name","property":"og:site_name","content":"OMG Swift"},{"hid":"og:description","name":"og:description","property":"og:description","content":"OMG Swift"}],"link":[{"hid":"shortcut-icon","rel":"shortcut icon","href":"/_nuxt/icons/icon_16x16.1b5051.png"},{"hid":"apple-touch-icon","rel":"apple-touch-icon","href":"/_nuxt/icons/icon_192x192.1b5051.png","sizes":"192x192"},{"rel":"manifest","href":"/_nuxt/manifest.5a1f8584.json","hid":"manifest"}],"htmlAttrs":{"lang":"en"}}'
       );
     },
     299: function (e, t, n) {
@@ -22713,7 +22713,7 @@
                         (d = Fu(
                           {
                             head: {
-                              titleTemplate: "%s - omgswift",
+                              titleTemplate: "%s - OMG Swift",
                               meta: [
                                 {
                                   name: "viewport",

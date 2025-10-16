@@ -169,7 +169,7 @@ $data = [
 					"_id"     => "6788fd46729c1064a57e0f9b"
 				],
 				[
-					"content" => "<p style=\"text-align: center;\">##ru##Благодарим за выбор omgswift!####en##Thank you for choosing omgswift!####uk##Дякуємо за вибір omgswift!##</п>",
+					"content" => "<p style=\"text-align: center;\">##ru##Благодарим за выбор OMG Swift!####en##Thank you for choosing OMG Swift!####uk##Дякуємо за вибір OMG Swift!##</п>",
 					"step"    => "doneOrder",
 					"_id"     => "6788fd46729c1064a57e0f9c"
 				]
@@ -193,12 +193,12 @@ $data = [
 			"routeId"                   => $id_route,
 			"seo"                       => [
 				"friendlyURL" => "bitcoin-na-tinkoff",
-				"title"       => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | omgswift####ua##Обмін Bitcoin BTC Тінькофф Рублі | omgswift####en##Exchange Bitcoin BTC to Tinkoff Rubles | omgswift##",
+				"title"       => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | OMG Swift####ua##Обмін Bitcoin BTC Тінькофф Рублі | OMG Swift####en##Exchange Bitcoin BTC to Tinkoff Rubles | OMG Swift##",
 				"subtitle"    => "",
-				"description" => "##ru##Обменник криптовалют omgswift предлагается обменять криптовалюту Bitcoin BTC на Рубли Банка Тинькофф. Быстрые обмены. Выгодный курс.####ua##Обмінник криптовалют omgswift пропонується обміняти криптовалюту Bitcoin BTC на Рублі Банку Тінькофф. Швидкі обміни. Вигідний курс.####en##Cryptocurrency exchanger omgswift offers to exchange Bitcoin BTC cryptocurrency for Tinkoff Bank Rubles. Fast exchanges. Favorable rate.##",
+				"description" => "##ru##Обменник криптовалют OMG Swift предлагается обменять криптовалюту Bitcoin BTC на Рубли Банка Тинькофф. Быстрые обмены. Выгодный курс.####ua##Обмінник криптовалют OMG Swift пропонується обміняти криптовалюту Bitcoin BTC на Рублі Банку Тінькофф. Швидкі обміни. Вигідний курс.####en##Cryptocurrency exchanger OMG Swift offers to exchange Bitcoin BTC cryptocurrency for Tinkoff Bank Rubles. Fast exchanges. Favorable rate.##",
 				"instruction" => "",
-				"keyword"     => "##ru##Обменник криптовалют omgswift, обменять Тинькофф Рубли, BTC на Рубли, Быстрые выплаты, Выгодный курс, Bitcoin BTC на Рубли Банка, Обмен BTC на Тинькофф Рубли, omgswift, обмен биткоин на рубли####ua##Обмінник криптовалют omgswift, обміняти Тінькофф Рублі, BTC на Рублі, Швидкі виплати, Вигідний курс, Bitcoin BTC на Рублі Банку, Обмін BTC на Тінькофф Рублі, omgswift, обмін біткоїн на рублі####en##Cryptocurrency exchanger omgswift, exchange Tinkoff Rubles, BTC to Rubles, Fast payments, Favorable rate, Bitcoin BTC to Rubles Bank, Exchange BTC to Tinkoff Rubles, omgswift, exchange bitcoin to rubles##",
-				"h1"          => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | omgswift####ua##Обмін Bitcoin BTC Тінькофф Рублі | omgswift####en##Exchange Bitcoin BTC to Tinkoff Rubles | omgswift##",
+				"keyword"     => "##ru##Обменник криптовалют OMG Swift, обменять Тинькофф Рубли, BTC на Рубли, Быстрые выплаты, Выгодный курс, Bitcoin BTC на Рубли Банка, Обмен BTC на Тинькофф Рубли, OMG Swift, обмен биткоин на рубли####ua##Обмінник криптовалют OMG Swift, обміняти Тінькофф Рублі, BTC на Рублі, Швидкі виплати, Вигідний курс, Bitcoin BTC на Рублі Банку, Обмін BTC на Тінькофф Рублі, OMG Swift, обмін біткоїн на рублі####en##Cryptocurrency exchanger OMG Swift, exchange Tinkoff Rubles, BTC to Rubles, Fast payments, Favorable rate, Bitcoin BTC to Rubles Bank, Exchange BTC to Tinkoff Rubles, OMG Swift, exchange bitcoin to rubles##",
+				"h1"          => "##ru##Обмен Bitcoin BTC на Тинькофф Рубли | OMG Swift####ua##Обмін Bitcoin BTC Тінькофф Рублі | OMG Swift####en##Exchange Bitcoin BTC to Tinkoff Rubles | OMG Swift##",
 				"h2"          => ""
 			],
 			"orderTTL"                  => 60

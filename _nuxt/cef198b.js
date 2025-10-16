@@ -10662,7 +10662,7 @@
     },
     function (e) {
       e.exports = JSON.parse(
-        '{"defaultLang":"en","baseUrl":"","wsUrl":"","projectName":"omgswift","server":{"dev":{"port":8080,"host":"localhost"}},"__proxy_path":"/service","__proxy_to_rest_api":"/service","servicePath":"/service","fsPath":"/service/fs","apiPath":"/service/api/v1/","logoPath":"/service/fs/img/logo/big/logo.png","faviconPath":"/service/fs/img/favicon/32/favicon.png","styles":{"exchangeForm":"v2"},"eslint":{"status":false},"i18nStrategy":"prefix","targetBuild":"static","buildSSR":false,"newRouteV2Method":true}'
+        '{"defaultLang":"en","baseUrl":"","wsUrl":"","projectName":"OMG Swift","server":{"dev":{"port":8080,"host":"localhost"}},"__proxy_path":"/service","__proxy_to_rest_api":"/service","servicePath":"/service","fsPath":"/service/fs","apiPath":"/service/api/v1/","logoPath":"/service/fs/img/logo/big/logo.png","faviconPath":"/service/fs/img/favicon/32/favicon.png","styles":{"exchangeForm":"v2"},"eslint":{"status":false},"i18nStrategy":"prefix","targetBuild":"static","buildSSR":false,"newRouteV2Method":true}'
       );
     },
   ]),
