@@ -864,7 +864,7 @@
                                                           "a",
                                                           {
                                                             attrs: {
-                                                              href: "https://exchangesumo.com/exchanger/1015/CoinLuxy/",
+                                                              href: "https://exchangesumo.com/exchanger/1015/omgswift/",
                                                               target: "_blank",
                                                             },
                                                           },
@@ -897,7 +897,7 @@
                                                           "a",
                                                           {
                                                             attrs: {
-                                                              href: "https://kurs.expert/ru/obmennik/www-CoinLuxy-cash/feedbacks.html",
+                                                              href: "https://kurs.expert/ru/obmennik/www-omgswift-cash/feedbacks.html",
                                                               target: "_blank",
                                                             },
                                                           },
@@ -963,7 +963,7 @@
                                                           "a",
                                                           {
                                                             attrs: {
-                                                              href: "https://www.bestchange.ru/CoinLuxy-exchanger.html",
+                                                              href: "https://www.bestchange.ru/omgswift-exchanger.html",
                                                               target: "_blank",
                                                             },
                                                           },
